@@ -1,1 +1,1 @@
-#Shopify Sample App
+# Shopify Sample App
